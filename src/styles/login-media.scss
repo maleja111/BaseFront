@@ -1,0 +1,22 @@
+@media screen and (min-width: $md-screen) {
+  .login-container {
+    flex-direction: row;
+  }
+
+  .login-image {
+    flex-basis: 40%;
+    height: 100vh;
+    background-position: 80% 0;
+  }
+
+  .login-controls {
+    flex: 1;
+  }
+}
+
+@media screen and (min-width: $lg-screen) {
+  .login-image {
+    flex-basis: 35%;
+  }
+}
+

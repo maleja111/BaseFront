@@ -1,0 +1,23 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.login-image {
+  position: relative;
+  background-image: $img-login;
+  width: 100%;
+  flex-basis: 35vh;
+  background-position: 0 80%;
+  background-size: cover;
+}
+
+.login-controls {
+  flex-basis: 65vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+
