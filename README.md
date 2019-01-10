@@ -1,3 +1,3 @@
 # PROYECTO BASE FRONT
 
-desarrollado dentro de la comunidad de Frontend en Endava medellin
+Desarrollado dentro de la comunidad de Frontend en Endava Medellín
